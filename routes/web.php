@@ -7,7 +7,6 @@ use App\Http\Controllers\PropertyController;
 use App\Http\Controllers\viewController;
 use App\Models\User;
 use App\Models\team;
-
 /*
 |--------------------------------------------------------------------------
 | Web Routes
